@@ -1,0 +1,17 @@
+
+h2{
+	color:black;
+	border:1px red;
+	position:absolute;
+	left:10px;
+	top:10px;
+}
+.name{
+	color: #FF0033;
+}
+body{ 
+	background-color:#d0e4fe;
+}
+a{
+	text-align: center;
+}
